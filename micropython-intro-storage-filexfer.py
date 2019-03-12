@@ -1,0 +1,2 @@
+$ ufs ls
+story.txt
